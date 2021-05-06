@@ -1,7 +1,5 @@
 # network
 
-**wifi-hack start**
-
 ## wlan0 > wlan0mon 옵션변경
 airmon-ng start wlan0
 
